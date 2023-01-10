@@ -42,7 +42,6 @@
     const attempt = () => {
         if(n != randomN){
             n++
-            console.log(n)
         }else{
             sucess = true
             console.log("")
