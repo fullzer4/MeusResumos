@@ -16,12 +16,11 @@
         const inicial = performance.now();
         randomValue()
         n = finalListNumber/2
-        if(randomN > n){ // prevent failure
+        if(randomN > n){
             max = finalListNumber
         }
-        attempt() // delete initial forecast
-
-        //loop
+        attempt() 
+        
         while(sucess === false){
             predicts()
             if( n === 0){
@@ -30,7 +29,6 @@
             attempts++
         }
 
-        //sucess
         const end = performance.now();
         console.log("")
         console.log(`Numero aleatorio entre ${finalListNumber} e 0 selecionado: ${randomN}`)
