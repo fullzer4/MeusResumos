@@ -1,5 +1,7 @@
+## Notes
+
 <details>
-<summary> Algorithms notes </summary>
+<summary> Algorithms </summary>
 
   <details>
   <summary> Binary Research vs Linear Research </summary>
