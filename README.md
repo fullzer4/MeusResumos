@@ -1,6 +1,6 @@
-## Notes
+## 📘 Notes 📘
 
-### all code to test the concepets was made with typescript running on deno
+### All code to test the concepets was made with typescript running on deno 🦕
 
 <details>
 <summary> Algorithms </summary>
