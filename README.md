@@ -14,7 +14,7 @@
    
    - Linear = 15.3ms
     
-   <img src="./BinaryVSLinearResearch.png" width="500">
+   <img src="./images/BinaryVSLinearResearch.png" width="500">
     
    Blue line for: Linear / Purple line for: Binary
 
