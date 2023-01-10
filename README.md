@@ -5,7 +5,7 @@
 #### Neste README, você encontrará os resultados dos testes realizados. Para visualizar os resumos, basta clicar no tópico abaixo e seguir o link para a pasta onde o arquivo Resume.excalidraw está armazenado. Para abrir esse arquivo, basta acessar https://excalidraw.com/. 🎉
 
 <details>
-<summary> ⚙️ Algorithms ⚙️ </summary>
+<summary> ⚙️ Algoritimos ⚙️ </summary>
   
   
 
