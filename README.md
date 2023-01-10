@@ -1,6 +1,6 @@
 ## 📘 Notes 📘
 
-### Todos os códigos de teste dos conceitos foram desenvolvidos em TypeScript utilizando o runtime Deno 🦕
+### Todos os códigos de teste foram desenvolvidos em TypeScript utilizando o runtime Deno 🦕
 
 <details>
 <summary> Algorithms </summary>
