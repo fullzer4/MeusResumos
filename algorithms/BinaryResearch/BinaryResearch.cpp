@@ -14,10 +14,6 @@ int attempts = 0;
 
 bool sucess = false;
 
-int numeroAleatorio(int menor, int maior) {
-    return rand()%(maior-menor+1) + menor;
-}
-
 int randomValue(){
 
     srand((unsigned)time(0));
