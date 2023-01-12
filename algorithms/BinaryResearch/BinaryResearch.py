@@ -6,7 +6,7 @@ max = 0
 n = 0
 
 inicialListNumber = 0
-finalListNumber = 1000
+finalListNumber = 100000000
 randomN = 0
 attempts = 0
 

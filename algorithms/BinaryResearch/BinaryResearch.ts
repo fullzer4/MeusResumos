@@ -12,7 +12,6 @@
 
     const start = () => {
 
-        //start
         const inicial = performance.now();
         randomValue()
         n = finalListNumber/2

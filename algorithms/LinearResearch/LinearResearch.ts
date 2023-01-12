@@ -11,11 +11,9 @@
 
     const start = () => {
 
-        //start
         const inicial = performance.now();
         randomValue()
 
-        //loop
         while(sucess === false){
             
             attempt()
@@ -23,7 +21,6 @@
 
         }
 
-        //sucess
         const end = performance.now();
         console.log("")
         console.log(`O algoritimo levou ${end - inicial} ms`);
