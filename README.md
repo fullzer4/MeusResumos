@@ -1,27 +1,18 @@
 ## 📘 Notes 📘
 
-#### Todos os códigos de teste foram desenvolvidos em TypeScript utilizando o runtime Deno 🦕, python 🐍 e c++ ⚙️
+#### Todos os códigos de teste foram desenvolvidos em TypeScript utilizando o runtime Deno 🦕, python 🐍 e c++ ⚙️. Caso queira testar rodar os seguintes comandos:
+
+```
+  
+```
 
 #### Neste README, você encontrará os resultados dos testes realizados. Para visualizar os resumos, basta clicar no tópico abaixo e seguir o link para a pasta onde o arquivo Resume.excalidraw está armazenado. Para abrir esse arquivo, basta acessar https://excalidraw.com/. 🎉
 
 <details>
 <summary> ⚙️ Algoritimos ⚙️ </summary>
   
-  
+  ### O que e algoritimo?
 
-  <details>
-  <summary> Binary Research vs Linear Research </summary>
-
-   ### Average of 20 results
-   
-   - Binary = 1.7ms
-   
-   - Linear = 15.3ms
-    
-   <img src="./images/BinaryVSLinearResearch.png" width="500">
-    
-   Blue line for: Linear / Purple line for: Binary
-
-  </details>
+  - Sequencia de ações executaveis para obter uma solução para o problema x
 
 </details>
