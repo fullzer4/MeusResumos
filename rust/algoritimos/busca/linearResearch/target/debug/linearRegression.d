@@ -1,1 +1,0 @@
-C:\Users\User\Documents\Codigos\Estudos\MeusResumos\rust\algoritimos\busca\linearRegression\target\debug\linearRegression.exe: C:\Users\User\Documents\Codigos\Estudos\MeusResumos\rust\algoritimos\busca\linearRegression\src\main.rs
