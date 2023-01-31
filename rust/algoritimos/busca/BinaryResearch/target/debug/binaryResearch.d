@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Codigos\Estudos\MeusResumos\rust\algoritimos\busca\binaryResearch\target\debug\binaryResearch.exe: C:\Users\User\Documents\Codigos\Estudos\MeusResumos\rust\algoritimos\busca\binaryResearch\src\main.rs
